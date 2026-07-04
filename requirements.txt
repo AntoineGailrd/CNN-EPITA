@@ -1,0 +1,4 @@
+kagglehub
+numpy
+pillow
+tensorflow
